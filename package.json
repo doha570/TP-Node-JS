@@ -1,0 +1,14 @@
+{
+  "name": "tp-nodejs-api",
+  "version": "1.0.0",
+  "description": "API REST Node.js de gestion de posts pour le TP d'initiation",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node seed.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
